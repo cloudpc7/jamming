@@ -1,9 +1,9 @@
 import React from 'react';
 import './style.css';
-import SearchBar from '../components/SearchBar';
-import SearchResults from '../components/SearchResults';
-import Track from '../components/Track';
-import Tracklist from '../components/Tracklist';
+import SearchBar from './components/SearchBar';
+import SearchResults from './components/SearchResults';
+import Track from './components/Track';
+import Tracklist from './components/Tracklist';
 
 export default function App() {
   return (
